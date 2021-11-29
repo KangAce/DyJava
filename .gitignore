@@ -1,0 +1,4 @@
+# Project exclude paths
+/douyin-java-common/target/
+/dy-java-open/target/
+/dy-java-spring-boot-starts/dy-java-open-spring-boot-starter/target/
