@@ -18,7 +18,7 @@ import static ink.kangaroo.spring.starter.dyjava.open.properties.DyOpenPropertie
 @ConfigurationProperties(PREFIX)
 public class DyOpenProperties {
 
-    public static final String PREFIX = "wx.open";
+    public static final String PREFIX = "dy.open";
 
     /**
      * 设置微信开放平台的appid.
